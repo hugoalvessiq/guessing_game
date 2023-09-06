@@ -17,4 +17,4 @@ cargo run
 
 ## License
 
-[MIT]
+[MIT](https://github.com/hugoalvessiq/guessing_game/blob/main/LICENSE)
